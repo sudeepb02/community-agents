@@ -39,11 +39,12 @@ When building your agent for the incentive programme, you can implement any Web3
 - Make sure that you only have one Agent per LangGraph instance to keep your Agents separated.
 - For security reasons, Agents will not have access to users' wallets, nor will they be able to store any data on Warden infrastructure. These limitations will be removed in the next phase of Warden Agent Hub in the beginning of 2026.
 
-We'll soon launch **Warden Studio**—a platform where you can register and monetize your Agent. Once it's available, you'll be able to add your Agent directly there, providing just the following:
+> [!IMPORTANT]
+> We'll soon launch **Warden Studio**—a platform where you can register and monetize your Agent. Once it's available, you'll be able to add your Agent directly there, providing just the following:
+> - Your agent's API URL and API key
+> - The name, description, and skills
+> - The avatar
 
-- Your agent's API URL and API key
-- The name, description, and skills
-- The avatar
 
 ![Registering an Agent in Warden Studio](images/warden-studio.png)
 
@@ -57,6 +58,8 @@ Awesome agents and tools built by the community! Add yours by submitting a PR to
 ### Agents
 
 - [Travel DeFi Agent](https://github.com/Joshua15310/travel-defi-agent): LangGraph agent for travel planning and expense optimization using Gemini AI and DeFi strategies.
+
+- [Cross-Chain Yield Intelligence Agent](https://github.com/rudazy/warden-yield-agent): AI agent that finds and ranks the best DeFi yield opportunities across 7 blockchain networks
 
 ### Tools & Resources
 
