@@ -60,6 +60,7 @@ Awesome agents and tools built by the community! Add yours by submitting a PR to
 - [Travel DeFi Agent](https://github.com/Joshua15310/travel-defi-agent): LangGraph agent for travel planning and expense optimization using Gemini AI and DeFi strategies.
 
 - [Cross-Chain Yield Intelligence Agent](https://github.com/rudazy/warden-yield-agent): AI agent that finds and ranks the best DeFi yield opportunities across 7 blockchain networks
+- [Portfolio Manager Agent](https://github.com/0xnald/portfolio-manager-agent): AI-powered crypto portfolio agent that adapts allocations in real time based on market data and natural language inputs
 
 - [Hyperliquid Agent](https://github.com/sudeepb02/hyperliquid-agent-warden): An AI-powered agent that analyzes funding rates on the Hyperliquid perpetual futures exchange. Get real-time funding rate data, identify arbitrage opportunities, and understand market trends.
 
